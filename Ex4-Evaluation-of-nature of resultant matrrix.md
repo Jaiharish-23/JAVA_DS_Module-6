@@ -18,9 +18,9 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 
 ## Program:
 ```java
-Program to ind the nature of resultant matrrix.
-Developed by: JAI HARISH R
-RegisterNumber: 212224040124
+// Program to ind the nature of resultant matrrix.
+// Developed by: JAI HARISH R
+// RegisterNumber: 212224040124
 import java.util.*;
 public class prog{
     public static void main(String [] args){
