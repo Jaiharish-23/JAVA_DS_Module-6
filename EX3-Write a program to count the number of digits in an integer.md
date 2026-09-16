@@ -1,5 +1,5 @@
 # EX3 Write a program to count the number of digits in an integer.
-## DATE:15/09/2026
+## DATE:27/07/2026
 ### Developed by: JAI HARISH R
 ### RegisterNumber: 212224040124
 ## AIM:
